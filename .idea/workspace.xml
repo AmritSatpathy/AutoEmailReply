@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4305f7ba-4bcf-4989-b5c7-1ec273c23191" name="Default Changelist" comment="This is the first commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1cioDELe1sENESlLWgXyyPRZh42" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\red_tomato\PycharmProjects\MyBot\template" />
+      <recent name="C:\Users\red_tomato\PycharmProjects\MyBot\models" />
+      <recent name="C:\Users\red_tomato\PycharmProjects\MyBot" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\red_tomato\PycharmProjects\MyBot" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="PythonConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.app (1)">
+    <configuration name="app (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MyBot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="py (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MyBot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="py" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MyBot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\red_tomato\PycharmProjects\MyBot\py.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="schedule" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MyBot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/schedule.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MyBot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/string.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app (1)" />
+        <item itemvalue="Python.py (1)" />
+        <item itemvalue="Python.string" />
+        <item itemvalue="Python.py" />
+        <item itemvalue="Python.schedule" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4305f7ba-4bcf-4989-b5c7-1ec273c23191" name="Default Changelist" comment="" />
+      <created>1591020656134</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591020656134</updated>
+    </task>
+    <task id="LOCAL-00001" summary="This is the first commit">
+      <created>1592885003287</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1592885003287</updated>
+    </task>
+    <task id="LOCAL-00002" summary="This is the first commit">
+      <created>1592885556876</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1592885556876</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="This is the first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="This is the first commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="654" y="295" key="#Notifications" timestamp="1591587781134">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="654" y="295" key="#Notifications/0.0.1536.864@0.0.1536.864" timestamp="1591587781134" />
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591020903395">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1591020903395" />
+    <state x="510" y="234" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592723501557">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="510" y="234" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1592723501557" />
+    <state x="2558" y="293" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1592129873556" />
+    <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592709339045">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1592709339045" />
+    <state x="499" y="179" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1591185625835" />
+    <state x="484" y="27" key="#step4" timestamp="1592451851426">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="484" y="27" key="#step4/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1592451851426" />
+    <state x="93" y="93" width="1350" height="678" key="DiffContextDialog" timestamp="1591875373220">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="93" y="93" width="1350" height="678" key="DiffContextDialog/-1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1591875373220" />
+    <state x="2268" y="342" key="FileChooserDialogImpl" timestamp="1592883620500">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="278" y="274" key="FileChooserDialogImpl/-1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1592724005312" />
+    <state x="2268" y="342" key="FileChooserDialogImpl/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1592883620500" />
+    <state x="278" y="274" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1592064038421" />
+    <state width="1634" height="422" key="GridCell.Tab.0.bottom" timestamp="1592851289302">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1298" height="311" key="GridCell.Tab.0.bottom/-1920.0.1536.864/0.0.1536.864@-1920.0.1536.864" timestamp="1592499024547" />
+    <state width="1298" height="669" key="GridCell.Tab.0.bottom/-1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1592732836084" />
+    <state width="1298" height="304" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1592586346782" />
+    <state width="1634" height="422" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1592851289302" />
+    <state width="1298" height="376" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1592635824917" />
+    <state width="1634" height="422" key="GridCell.Tab.0.center" timestamp="1592851289301">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1298" height="311" key="GridCell.Tab.0.center/-1920.0.1536.864/0.0.1536.864@-1920.0.1536.864" timestamp="1592499024546" />
+    <state width="1298" height="669" key="GridCell.Tab.0.center/-1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1592732836084" />
+    <state width="1298" height="304" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1592586346780" />
+    <state width="1634" height="422" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1592851289301" />
+    <state width="1298" height="376" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1592635824917" />
+    <state width="1634" height="422" key="GridCell.Tab.0.left" timestamp="1592851289301">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1298" height="311" key="GridCell.Tab.0.left/-1920.0.1536.864/0.0.1536.864@-1920.0.1536.864" timestamp="1592499024546" />
+    <state width="1298" height="669" key="GridCell.Tab.0.left/-1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1592732836084" />
+    <state width="1298" height="304" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1592586346780" />
+    <state width="1634" height="422" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1592851289301" />
+    <state width="1298" height="376" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1592635824917" />
+    <state width="1634" height="422" key="GridCell.Tab.0.right" timestamp="1592851289301">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1298" height="311" key="GridCell.Tab.0.right/-1920.0.1536.864/0.0.1536.864@-1920.0.1536.864" timestamp="1592499024546" />
+    <state width="1298" height="669" key="GridCell.Tab.0.right/-1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1592732836084" />
+    <state width="1298" height="304" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1592586346781" />
+    <state width="1634" height="422" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1592851289301" />
+    <state width="1298" height="376" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1592635824917" />
+    <state width="1298" height="260" key="GridCell.Tab.1.bottom" timestamp="1592242034000">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1298" height="260" key="GridCell.Tab.1.bottom/-1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1592242034000" />
+    <state width="1298" height="260" key="GridCell.Tab.1.center" timestamp="1592242034000">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1298" height="260" key="GridCell.Tab.1.center/-1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1592242034000" />
+    <state width="1298" height="260" key="GridCell.Tab.1.left" timestamp="1592242034000">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1298" height="260" key="GridCell.Tab.1.left/-1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1592242034000" />
+    <state width="1298" height="260" key="GridCell.Tab.1.right" timestamp="1592242034000">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1298" height="260" key="GridCell.Tab.1.right/-1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1592242034000" />
+    <state x="2283" y="290" key="SettingsEditor" timestamp="1592885471947">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="212" y="118" key="SettingsEditor/-1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1592385155603" />
+    <state x="313" y="98" key="SettingsEditor/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1592883271328" />
+    <state x="2283" y="290" key="SettingsEditor/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1592885471947" />
+    <state x="313" y="98" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1592052894645" />
+    <state x="2472" y="272" key="Vcs.Push.Dialog.v2" timestamp="1592885626219">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2472" y="272" key="Vcs.Push.Dialog.v2/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1592885626219" />
+    <state x="93" y="93" width="1350" height="678" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1591875373220">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="93" y="93" width="1350" height="678" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/-1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1591875373220" />
+    <state x="93" y="93" width="1350" height="678" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1592385278506">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="93" y="93" width="1350" height="678" key="com.intellij.history.integration.ui.views.FileHistoryDialog/-1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1592385278506" />
+    <state x="194" y="148" width="1550" height="648" key="dock-window-1" timestamp="1592841204452">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="-1783" y="124" width="1309" height="635" maximized="true" key="dock-window-1/-1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1592717771744" />
+    <state x="194" y="148" width="1550" height="648" key="dock-window-1/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1592841204452" />
+    <state x="0" y="18" width="1550" height="586" key="dock-window-1/0.0.1536.864@0.0.1536.864" timestamp="1592115289160" />
+    <state x="0" y="56" width="1550" height="734" maximized="true" key="dock-window-10" timestamp="1592589859696">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="46" y="182" width="1327" height="535" maximized="true" key="dock-window-10/-1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1592285315643" />
+    <state x="0" y="56" width="1550" height="734" maximized="true" key="dock-window-10/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1592589859696" />
+    <state x="0" y="168" width="1550" height="734" maximized="true" key="dock-window-11" timestamp="1592623894203">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="-1920" y="0" width="1550" height="871" key="dock-window-11/-1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1592285315643" />
+    <state x="0" y="168" width="1550" height="734" maximized="true" key="dock-window-11/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1592623894203" />
+    <state x="-1815" y="214" width="1327" height="535" key="dock-window-12" timestamp="1592292210282">
+      <screen x="-1920" y="0" width="1536" height="864" />
+    </state>
+    <state x="-1815" y="214" width="1327" height="535" key="dock-window-12/-1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1592292210282" />
+    <state x="-1910" y="0" width="1327" height="584" maximized="true" key="dock-window-13" timestamp="1592293042425">
+      <screen x="-1920" y="0" width="1536" height="864" />
+    </state>
+    <state x="-1910" y="0" width="1327" height="584" maximized="true" key="dock-window-13/-1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1592293042425" />
+    <state x="2161" y="188" width="1550" height="648" key="dock-window-2" timestamp="1592841204452">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="0" y="0" width="1529" height="850" key="dock-window-2/-1920.0.1536.864/0.0.1536.864@-1920.0.1536.864" timestamp="1592499238597" />
+    <state x="-1679" y="190" width="1309" height="559" maximized="true" key="dock-window-2/-1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1592728370024" />
+    <state x="0" y="97" width="1550" height="617" maximized="true" key="dock-window-2/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1592448824175" />
+    <state x="2161" y="188" width="1550" height="648" key="dock-window-2/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1592841204452" />
+    <state x="300" y="166" width="1550" height="648" key="dock-window-3" timestamp="1592846042621">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="0" y="0" width="1529" height="850" key="dock-window-3/-1920.0.1536.864/0.0.1536.864@-1920.0.1536.864" timestamp="1592499238598" />
+    <state x="-1679" y="40" width="1309" height="555" maximized="true" key="dock-window-3/-1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1592728370024" />
+    <state x="300" y="166" width="1550" height="648" key="dock-window-3/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1592846042621" />
+    <state x="0" y="0" width="1550" height="601" maximized="true" key="dock-window-4" timestamp="1592848790913">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="-1845" y="57" width="1325" height="470" key="dock-window-4/-1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1592395817486" />
+    <state x="0" y="0" width="1550" height="601" maximized="true" key="dock-window-4/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1592848790913" />
+    <state x="0" y="178" width="1550" height="605" maximized="true" key="dock-window-5" timestamp="1592577700045">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="-1893" y="41" width="1327" height="562" maximized="true" key="dock-window-5/-1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1592235830045" />
+    <state x="0" y="178" width="1550" height="605" maximized="true" key="dock-window-5/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1592577700045" />
+    <state x="0" y="180" width="1550" height="543" key="dock-window-6" timestamp="1592589012803">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="-1697" y="55" width="1327" height="562" maximized="true" key="dock-window-6/-1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1592241609922" />
+    <state x="0" y="180" width="1550" height="543" key="dock-window-6/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1592589012803" />
+    <state x="0" y="177" width="1550" height="543" maximized="true" key="dock-window-7" timestamp="1592586759305">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="-1697" y="102" width="1327" height="512" maximized="true" key="dock-window-7/-1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1592297468539" />
+    <state x="0" y="177" width="1550" height="543" maximized="true" key="dock-window-7/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1592586759305" />
+    <state x="0" y="177" width="1550" height="543" key="dock-window-7/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1592579365983" />
+    <state x="-3" y="134" width="1320" height="664" key="dock-window-8" timestamp="1592589859696">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="-1697" y="103" width="1327" height="535" key="dock-window-8/-1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1592282975642" />
+    <state x="1920" y="0" width="1320" height="664" maximized="true" key="dock-window-8/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1592586759305" />
+    <state x="-3" y="134" width="1320" height="664" key="dock-window-8/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1592589859696" />
+    <state x="-47" y="66" width="1553" height="872" maximized="true" key="dock-window-9" timestamp="1592589859696">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="-1879" y="148" width="1327" height="535" key="dock-window-9/-1920.0.1536.864/0.0.1536.864@0.0.1536.864" timestamp="1592284315258" />
+    <state x="-47" y="66" width="1553" height="872" maximized="true" key="dock-window-9/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1592589859696" />
+  </component>
+</project>
