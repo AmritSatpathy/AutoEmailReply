@@ -1,4 +1,4 @@
-username = 'satpathy.amrit@gmail.com'
-password = 'aieoqimpwtpxhfoj'
-yourname = 'Rekha' #just the firstname
-ccvalue = "satpathy.amrit@outlook.com"
+username = add your email id
+password = add your gmail two step password
+yourname = add your name
+ccvalue = put another mail if yoh want to cc someone
